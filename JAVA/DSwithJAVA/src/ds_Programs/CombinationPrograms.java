@@ -1,4 +1,4 @@
-package DSA;
+package ds_Programs;
 
 public class CombinationPrograms {
 

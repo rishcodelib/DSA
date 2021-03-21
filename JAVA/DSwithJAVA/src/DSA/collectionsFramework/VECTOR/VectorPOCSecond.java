@@ -15,11 +15,10 @@ public class VectorPOCSecond {
 		v.add("ashish");
 		v.add("garima");
 		v.add("neha");
-		
+
 		Iterator<String> itr = v.iterator();
-	
-		
-		while(itr.hasNext()) {
+
+		while (itr.hasNext()) {
 			System.out.println(itr.next());
 		}
 	}
